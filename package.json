@@ -1,0 +1,28 @@
+{
+  "name": "isane-palindrome",
+  "version": "0.1.0",
+  "description": "Palindrome detector",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IsmaelSANE/palindrome.git"
+  },
+  "keywords": [
+    "palindrome",
+    "learn-enough",
+    "javascript"
+  ],
+  "author": "Ismael Sane",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IsmaelSANE/palindrome/issues"
+  },
+  "homepage": "https://github.com/IsmaelSANE/palindrome#readme",
+  "dependencies": {
+    "global": "^4.3.2",
+    "mocha": "^5.2.0"
+  }
+}
